@@ -1,4 +1,6 @@
-<em> Conversor de monedas y temperaturas con API </em>
+<h1 align="center"> Conversor de monedas y temperaturas con API </h1>
+
+Es un proyecto de conversion de monedas usando JAVA con API y conversion de temperaturas
 
 1- Iniciamos el programa Main.java, nos aparacera la siguiente ventana.
 
